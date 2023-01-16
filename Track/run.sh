@@ -1,0 +1,1 @@
+cat in.txt | python main.py > result.txt
